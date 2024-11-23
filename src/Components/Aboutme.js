@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from './Title';
-import { FaCloudDownloadAlt, FaHandSpock } from "react-icons/fa";
+import { FaHandSpock } from "react-icons/fa";
 import { FaRegLightbulb } from "react-icons/fa";
 import { GrCompliance } from "react-icons/gr";
 import { Ri24HoursFill } from "react-icons/ri";

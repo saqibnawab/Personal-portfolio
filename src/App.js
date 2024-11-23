@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './Components/Header';
 import Aboutme from './Components/Aboutme';
@@ -7,7 +7,6 @@ import Services from './Components/Services';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import Hero from './Components/Hero';
-import Qualification from './Components/Qualification';
 import Portfilo from './Components/Portfilo';
 import Review from './Components/Review';
 import Scrolleablefun from './Components/Scrollablefun';
@@ -19,7 +18,7 @@ function App() {
      <Header/>
      <Hero/>
      <Aboutme/>
-     {/* <Qualification/> */}
+
      <Skill/>
      <Services/>
      <Portfilo/>
